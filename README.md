@@ -4,7 +4,7 @@
 ## Install
 
 ```
-$ npm install --save 365admin-security
+$ npm install --save tsfadmin-security
 ```
 
 
@@ -26,10 +26,8 @@ Store the credentials in the user's home directory in a file named
 ```
 
 ```js
-var security = require('365admin-security');
-
-var _365adminSecurity = require('..')
-var userpass = _365adminSecurity.credentials.getCredentials("hexa00001","ps")
+var tsfadmin_security = require('tsfadmin-security');
+var userpass = tsfadmin_security.credentials.getCredentials("hexa00001","ps")
 
 console.log(userpass.username)
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "365admin-security",
+  "name": "tsfadmin-security",
   "version": "0.0.1",
   "description": "Module responsible for credentials management etc.",
   "main": "index.js",
