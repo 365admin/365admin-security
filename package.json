@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "niels@365admin.net",
+  "author": "niels@hexatown.com",
   "contributors": [
-    "niels@365admin.net"
+    "niels@hexatown.com"
   ],
   "license": "MIT",
   "homepage": "https://github.com/365admin/365admin-security",
