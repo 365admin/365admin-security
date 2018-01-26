@@ -1,5 +1,5 @@
 {
-  "name": "tsfadmin-security",
+  "name": "tadmin-security",
   "version": "0.0.1",
   "description": "Module responsible for credentials management etc.",
   "main": "index.js",

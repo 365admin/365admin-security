@@ -4,7 +4,7 @@
 ## Install
 
 ```
-$ npm install --save tsfadmin-security
+$ npm install --save tadmin-security
 ```
 
 
@@ -26,7 +26,7 @@ Store the credentials in the user's home directory in a file named
 ```
 
 ```js
-var tsfadmin_security = require('tsfadmin-security');
+var tadmin_security = require('tadmin-security');
 var userpass = tsfadmin_security.credentials.getCredentials("hexa00001","ps")
 
 console.log(userpass.username)
