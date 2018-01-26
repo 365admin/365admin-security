@@ -1,0 +1,30 @@
+{
+  "name": "365admin-security",
+  "version": "0.0.1",
+  "description": "Module responsible for credentials management etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "niels@365admin.net",
+  "contributors": [
+    "niels@365admin.net"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/365admin/365admin-security",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/365admin/365admin-security.git"
+  },
+  "bugs": {
+    "url": "https://github.com/365admin/365admin-security/issues"
+  },
+  "dependencies": {
+    "adal-node": "^0.1.27",
+    "azure-arm-keyvault": "^1.1.0-preview",
+    "azure-keyvault": "^2.0.1-preview",
+    "lodash": "^4.17.4",
+    "user-home": "^2.0.0"
+  }
+}
