@@ -1,6 +1,6 @@
 {
   "name": "tadmin-security",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module responsible for credentials management etc.",
   "main": "index.js",
   "scripts": {
