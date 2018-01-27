@@ -26,8 +26,8 @@ Store the credentials in the user's home directory in a file named
 ```
 
 ```js
-var tadmin_security = require('tadmin-security');
-var userpass = tsfadmin_security.credentials.getCredentials("hexa00001","ps")
+var tadminSecurity = require('tadmin-security');
+var userpass = tadminSecurity.credentials.getCredentials("hexa00001","ps")
 
 console.log(userpass.username)
 ```
