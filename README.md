@@ -26,8 +26,8 @@ Store the credentials in the user's home directory in a file named
 ```
 
 ```js
-var tadminSecurity = require('tadmin-security');
-var userpass = tadminSecurity.credentials.getCredentials("hexa00001","ps")
+var _365adminSecurity = require('@365admin/security');
+var userpass = _365adminSecurity.credentials.getCredentials("hexa00001","ps")
 
 console.log(userpass.username)
 ```
